@@ -57,3 +57,19 @@ WHERE DATE(date) BETWEEN start_date AND end_date;
 
 Analysts can modify `start_date` and `end_date` to retrieve metrics for any period.
 
+---
+
+## 🤖 Part 4 – Agent Demo (Bonus)
+
+**Natural Language Question:**
+> "Compare CAC and ROAS for last 30 days vs prior 30 days."
+
+**Mapped SQL Logic:**
+- Identify max date in dataset
+- Define two 30-day periods
+- Calculate CAC and ROAS
+- Compare and return deltas
+
+**Reference:** See `README_agent_demo.md`
+
+
