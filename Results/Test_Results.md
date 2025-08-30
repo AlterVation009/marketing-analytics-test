@@ -14,3 +14,7 @@ Part 2 – CAC and ROAS query for comparison and output
 
 <img width="2082" height="1202" alt="2 - SQL" src="https://github.com/user-attachments/assets/fa2f7461-e43d-4952-b246-4b7594dc010e" />
 
+Part 3 - CAC and ROAS parameterized query and output
+
+<img width="1177" height="485" alt="3 - SQL" src="https://github.com/user-attachments/assets/480dfe1c-754f-4035-864f-1d63c174e17d" />
+
