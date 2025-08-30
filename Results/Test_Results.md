@@ -9,6 +9,7 @@ This document presents the output of the implementation of the workflow, KPI com
 <img width="2461" height="1297" alt="1 2 Workflow" src="https://github.com/user-attachments/assets/52e0f828-26c8-4443-8e1e-f15632b07714" />
 
 
+
 2.- 
 
 
